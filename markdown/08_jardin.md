@@ -62,7 +62,8 @@ En la página 242 de la Historia de la guerra europea, de Liddell Hart, se lee q
 “Propuse varias soluciones; todas, insuficientes. Las discutimos; al fin, Stephen Albert me dijo:
 
 “-En una adivinanza cuyo tema es el ajedrez, ¿cuál es la única palabra prohibida?
-	“Reflexioné un momento y repuse:
+
+“Reflexioné un momento y repuse:
 
 “-La palabra ajedrez.
 
