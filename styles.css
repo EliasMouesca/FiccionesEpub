@@ -1,0 +1,12 @@
+body {
+    background-color: transparent !important;
+    margin: 0;
+    padding: 0;
+}
+
+/* restablecer fondo solo en contenedores grandes */
+div, section, article {
+    background-color: transparent !important;
+    border: none !important;
+}
+
