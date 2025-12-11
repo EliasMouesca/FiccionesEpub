@@ -22,7 +22,7 @@ g) Una traducción con prólogo y notas del Libro de la invención liberal y art
 
 h) Los borradores de una monografía sobre la lógica simbólica de George Boole.
 
-i) Un examen de las leyes métricas esenciales de la prosa francesa, ilustrado con ejemplos de Saint­-Simon (Revue des langues romanes, Montpellier, octubre de 1909).
+i) Un examen de las leyes métricas esenciales de la prosa francesa, ilustrado con ejemplos de Saint—Simon (Revue des langues romanes, Montpellier, octubre de 1909).
 
 j) Una réplica a Luc Durtain (que había negado la existencia de tales leyes) ilustrada con ejemplos de Luc Durtain (Revue des langues romanes, Montpellier, diciembre de 1909).
 
@@ -32,13 +32,13 @@ l) Un prefacio al catálogo de la exposición de litografías de Carolus Hourcad
 
 m) La obra Les problèmes d’un problème (París, 1917) que discute en orden cronológico las soluciones del ilustre problema de Aquiles y la tortuga. Dos ediciones de este libro han aparecido hasta ahora; la segunda trae como epígrafe el consejo de Leibniz “Ne craignez point, monsieur, la tortue”, y renueva los capítulos dedicados a Russell y a Descartes.
 
-n) Un obstinado análisis de las “costumbres sintácticas” de Toulet (N.R.F., marzo de 1921). Menard ­-recuerdo­- declaraba que censurar y alabar son operaciones sentimentales que nada tienen que ver con la crítica.
+n) Un obstinado análisis de las “costumbres sintácticas” de Toulet (N.R.F., marzo de 1921). Menard­—recuerdo— declaraba que censurar y alabar son operaciones sentimentales que nada tienen que ver con la crítica.
 
 o) Una transposición en alejandrinos del Cimetière marin, de Paul Valéry (N.R.F., enero de 1928).
 
 p) Una invectiva contra Paul Valéry, en las Hojas para la supresión de la realidad de Jacques Reboul. (Esa invectiva, dicho sea entre paréntesis, es el reverso exacto de su verdadera opinión sobre Valéry. Este así lo entendió y la amistad antigua de los dos no corrió peligro.)
 
-q) Una “definición” de la condesa de Bagnoregio, en el “victorioso volumen” ­-la locución es de otro colaborador, Gabriele d’Annunzio­- que anualmente publica esta dama para rectificar los inevitables falseos del periodismo y presentar “al mundo y a Italia” una auténtica efigie de su persona, tan expuesta (en razón misma de su belleza y de su actuación) a interpretaciones erróneas o apresuradas.
+q) Una “definición” de la condesa de Bagnoregio, en el “victorioso volumen” ­—la locución es de otro colaborador, Gabriele d’Annunzio­- que anualmente publica esta dama para rectificar los inevitables falseos del periodismo y presentar “al mundo y a Italia” una auténtica efigie de su persona, tan expuesta (en razón misma de su belleza y de su actuación) a interpretaciones erróneas o apresuradas.
 
 r) Un ciclo de admirables sonetos para la baronesa de Bacourt (1934).
 
